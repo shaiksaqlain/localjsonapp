@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Saqlain",
+        "age"  : "19",
+        "height" :"5.9",
+        "color" : "fair"
+    },
+    
+    {
+        "name" : "Lucifer",
+        "age"  : "19",
+        "height" :"5.9",
+        "color" : "fair"
+    },
+    {
+        "name" : "Arshad",
+        "age"  : "19",
+        "height" :"5.9",
+        "color" : "fair"
+    },
+    {
+        "name" : "saqlain",
+        "age"  : "19",
+        "height" :"5.9",
+        "color" : "fair"
+    }
+]
